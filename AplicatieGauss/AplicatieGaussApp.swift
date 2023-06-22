@@ -1,17 +1,29 @@
 //
 //  AplicatieGaussApp.swift
-//  AplicatieGauss
 //
-//  Created by Ariana Plitea on 24.03.2023.
+//
+//  Created by Calaianu Cosmin on 24.03.2023.
 //
 
 import SwiftUI
+import Firebase
 
-@main
+
+    @main
 struct AplicatieGaussApp: App {
+    
+    @StateObject var viewModel = AuthViewModel()
+    
+    init(){
+        FirebaseApp.configure()
+    }
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView{
+                ContentView()
+            }
+            .environmentObject(viewModel)
         }
     }
 }
