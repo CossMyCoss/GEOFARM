@@ -41,7 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		33CB864529CD9DF7000EB698 /* AplicatieGauss.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AplicatieGauss.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		33CB864529CD9DF7000EB698 /* GEOFARM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GEOFARM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		33CB864829CD9DF7000EB698 /* AplicatieGaussApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AplicatieGaussApp.swift; sourceTree = "<group>"; };
 		33CB864A29CD9DF7000EB698 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		33CB864C29CD9DF9000EB698 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		33CB864629CD9DF7000EB698 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				33CB864529CD9DF7000EB698 /* AplicatieGauss.app */,
+				33CB864529CD9DF7000EB698 /* GEOFARM.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		33CB864429CD9DF7000EB698 /* AplicatieGauss */ = {
+		33CB864429CD9DF7000EB698 /* GEOFARM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 33CB865329CD9DF9000EB698 /* Build configuration list for PBXNativeTarget "AplicatieGauss" */;
+			buildConfigurationList = 33CB865329CD9DF9000EB698 /* Build configuration list for PBXNativeTarget "GEOFARM" */;
 			buildPhases = (
 				33CB864129CD9DF7000EB698 /* Sources */,
 				33CB864229CD9DF7000EB698 /* Frameworks */,
@@ -213,7 +213,7 @@
 			);
 			dependencies = (
 			);
-			name = AplicatieGauss;
+			name = GEOFARM;
 			packageProductDependencies = (
 				44625B4B29D56A6900FB191A /* FirebaseAuth */,
 				44625B4D29D56A6900FB191A /* FirebaseFirestore */,
@@ -221,7 +221,7 @@
 				44625B5129D56A6900FB191A /* FirebaseStorage */,
 			);
 			productName = AplicatieGauss;
-			productReference = 33CB864529CD9DF7000EB698 /* AplicatieGauss.app */;
+			productReference = 33CB864529CD9DF7000EB698 /* GEOFARM.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -239,7 +239,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 33CB864029CD9DF7000EB698 /* Build configuration list for PBXProject "AplicatieGauss" */;
+			buildConfigurationList = 33CB864029CD9DF7000EB698 /* Build configuration list for PBXProject "GEOFARM" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -255,7 +255,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				33CB864429CD9DF7000EB698 /* AplicatieGauss */,
+				33CB864429CD9DF7000EB698 /* GEOFARM */,
 			);
 		};
 /* End PBXProject section */
@@ -491,7 +491,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		33CB864029CD9DF7000EB698 /* Build configuration list for PBXProject "AplicatieGauss" */ = {
+		33CB864029CD9DF7000EB698 /* Build configuration list for PBXProject "GEOFARM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33CB865129CD9DF9000EB698 /* Debug */,
@@ -500,7 +500,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		33CB865329CD9DF9000EB698 /* Build configuration list for PBXNativeTarget "AplicatieGauss" */ = {
+		33CB865329CD9DF9000EB698 /* Build configuration list for PBXNativeTarget "GEOFARM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				33CB865429CD9DF9000EB698 /* Debug */,

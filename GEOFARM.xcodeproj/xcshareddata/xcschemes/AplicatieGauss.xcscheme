@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CB864429CD9DF7000EB698"
-               BuildableName = "AplicatieGauss.app"
-               BlueprintName = "AplicatieGauss"
-               ReferencedContainer = "container:AplicatieGauss.xcodeproj">
+               BuildableName = "GEOFARM.app"
+               BlueprintName = "GEOFARM"
+               ReferencedContainer = "container:GEOFARM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,14 +45,14 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CB864429CD9DF7000EB698"
-            BuildableName = "AplicatieGauss.app"
-            BlueprintName = "AplicatieGauss"
-            ReferencedContainer = "container:AplicatieGauss.xcodeproj">
+            BuildableName = "GEOFARM.app"
+            BlueprintName = "GEOFARM"
+            ReferencedContainer = "container:GEOFARM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
-         identifier = "../../../../../extras/gpxgenerator_path.gpx"
-         referenceType = "0">
+         identifier = "Tokyo, Japan"
+         referenceType = "1">
       </LocationScenarioReference>
    </LaunchAction>
    <ProfileAction
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CB864429CD9DF7000EB698"
-            BuildableName = "AplicatieGauss.app"
-            BlueprintName = "AplicatieGauss"
-            ReferencedContainer = "container:AplicatieGauss.xcodeproj">
+            BuildableName = "GEOFARM.app"
+            BlueprintName = "GEOFARM"
+            ReferencedContainer = "container:GEOFARM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
